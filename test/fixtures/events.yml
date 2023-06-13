@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tool: one
+  user: one
+  description: MyText
+  timestamp: 2023-06-13 11:06:31
+  location: MyString
+
+two:
+  tool: two
+  user: two
+  description: MyText
+  timestamp: 2023-06-13 11:06:31
+  location: MyString
